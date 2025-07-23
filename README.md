@@ -1,4 +1,5 @@
 # 🚀 Starter Backend API
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A secure, modular, and production-ready Node.js backend boilerplate built with **Express**, **MongoDB**, **JWT authentication**, **AWS S3 file upload**, **SMTP email sending**, and **role-based access control**.
 
